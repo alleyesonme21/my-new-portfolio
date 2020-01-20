@@ -4,8 +4,6 @@ body {
     background-color: rgba(255, 99, 71, 0.2);
     }
   
-    
-    /* seconde part*/
     #banner  {
      background-image: url("../img/john.jpg");
        background-size: cover; 
@@ -36,8 +34,8 @@ body {
    h1 {
     
       padding-top: 30px;
-      margin-left: 20px;
-    font-size: 30px;
+      margin-left: 10px;
+      font-size: 30px;
     }
 
   .add p {
@@ -70,10 +68,6 @@ float: right;
 padding: 10px;
 
   }
-
-
-
-    
 
   footer p {
     position: relative;
