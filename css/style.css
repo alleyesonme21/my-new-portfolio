@@ -3,12 +3,7 @@
 body {
     background-color: rgba(255, 99, 71, 0.2);
     }
-    
-    /* first part*/
-    .navigation {
-      text-align: ;
-      font-size: 30px;
-    }
+  
     
     /* seconde part*/
     #banner  {
@@ -30,7 +25,7 @@ body {
       text-align: center;
       font-size: 70px;
       font-family: marker felt;
-      color: #8cac36;
+      color: rgb(150, 99, 70);
       background-color: rgb(31, 17, 17, 0.5);
       max-width: 860px;
       margin: auto;
