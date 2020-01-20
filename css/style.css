@@ -1,44 +1,34 @@
+
+
 body {
-    background-color: #ffffff;
+    background-color: rgba(255, 99, 71, 0.2);
     }
     
     /* first part*/
     .navigation {
       text-align: ;
       font-size: 30px;
-    
-    
-    }
-    
-    .navigation ul {
-      text-align: ;
-    font-weight: bolder;
-    
-    
-    }
-    
-    
-    .navigation li {
-      font-weight: 100px;
-      text-align: left;
-      color: Blue;
-        display: inline;
-    
     }
     
     /* seconde part*/
     #banner  {
      background-image: url("../img/john.jpg");
-      background-size: cover;
-      background-position: left;
+       background-size: cover; 
+      background-position: right;
+      background-attachment: fixed;
     width: 100%; height: 700px;
     padding: 15px;
+    position: relative;
     
+    }
+
+    .share button {
+      align-items: space-between;
     }
       
 
 
-    #banner .content h1 {
+   /* #banner .content h1 {
       text-align: center;
       position: relative;
       border-radius: 5px;
@@ -47,8 +37,33 @@ body {
     margin: 0 auto;
     top: 100px;
     
-    
+    }*/
+
+
+
+    /*.container {
+      border: 2px solid black;
+      border-radius: 25px;
+      max-width: 900px;
+      margin: auto;
+      padding: 10px;
+      background-color: black;
+      opacity: 0.9;
+      color: white;
+    }*/
+
+
+    header {
+      text-align: center;
+      font-size: 70px;
+      font-family: marker felt;
+      color: #8cac36;
+      background-color: rgb(31, 17, 17, 0.5);
+      max-width: 860px;
+      margin: auto;
+      border-radius: 25px;
     }
+
     
     h1 {
       color: red;
@@ -78,15 +93,41 @@ margin-top: 2px;
   }
 
   p {
-    
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
   }
+
+
+  .share button {
+
+    float: right  ;
+    display: inline;
+    font-size: 30px;
+  }
+
+
+
     
 
-  
+  footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+ }
+ .content img {
+   align-items: flex-start;
+  }
 
-  
-    
+  p {
+    text-align: justify;
+  text-justify: inter-word;
+  }
 
     
    
@@ -96,4 +137,4 @@ margin-top: 2px;
     
 
 
-   
+  
