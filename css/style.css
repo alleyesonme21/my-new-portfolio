@@ -39,11 +39,6 @@ body {
       margin-left: 20px;
     font-size: 30px;
     }
-    /* .content h1 { 
-      color: green;
-      padding: 10px;
-    }
-*/
 
   .add p {
     box-sizing: border-box;
@@ -68,11 +63,12 @@ margin-top: 2px;
   }
 
 
-  .share button {
+  #share img {
+width: 50px;
+height: 50px;
+float: right;
+padding: 10px;
 
-    float: right  ;
-    display: inline;
-    font-size: 30px;
   }
 
 
