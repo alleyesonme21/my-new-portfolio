@@ -19,7 +19,7 @@ My personal portofolio outlines my prior work experience in Haiti, international
  - git
 
 GH Pages Link
-URL:
+URL: https://github.com/alleyesonme21/my-new-portfolio/tree/gh-pages
 
 ## Support and contact details
 contack info: Email: duverseaujohnny21@gmail.com
